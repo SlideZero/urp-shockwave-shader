@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Unity-2020.1.2-lightgrey"/> <img src="https://img.shields.io/badge/Template-URP-brightgreen"/> <img src="https://img.shields.io/badge/Feature-Shader_Graph-blue"/> <img src="https://img.shields.io/badge/Status-Experimental-red"/>
+<img src="https://img.shields.io/badge/Unity-2020.1.2-lightgrey"/> <img src="https://img.shields.io/badge/Template-URP-green"/> <img src="https://img.shields.io/badge/Feature-Shader_Graph-blue"/> <img src="https://img.shields.io/badge/Status-Experimental-red"/>
 </p>
 
 <h2 align="center">Shockwave Shader</h2>
