@@ -22,4 +22,4 @@ The <b>Opaque Texture</b> concept is based on the [GrabPass](https://docs.unity3
 
 ## Overview:
 
-<img src="https://zesdev-resources.s3.amazonaws.com/shockwave-shader.gif"/>
+<img src="https://zesdev-resources.s3.amazonaws.com/urp-shockwave-shader.gif"/>
