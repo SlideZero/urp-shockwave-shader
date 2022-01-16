@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/SlideZero/icons-logos/blob/main/Unity/unity-tab-square-white.png" width="140"/>
+<img src="https://github.com/SlideZero/icons-logos/blob/main/Unity/U_Logo_Black_RGB.png" width="200"/>
 </p>
 
 <p align="center">
