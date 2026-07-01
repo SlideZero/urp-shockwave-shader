@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://github.com/SlideZero/icons-logos/blob/main/Unity/U_Logo_Black_RGB.png" width="200"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9bc31ee9-e392-41f7-bf34-655a50fa2fa3">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/93b65b4f-8523-41d4-9bd0-edf0c1c7972c">
+    <img src="https://github.com/user-attachments/assets/93b65b4f-8523-41d4-9bd0-edf0c1c7972c" width="200"/>
+  </picture>
 </p>
 
 <p align="center">
